@@ -1,1 +1,1 @@
-getgenv().StratMaintance = true
+getgenv().StratMaintance = false
